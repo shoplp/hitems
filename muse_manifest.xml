@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="hitems.ru" resolutions="1x" timestamp="1637152106977">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="hitems.ru" resolutions="1x" timestamp="1637157102693">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="277455787" ref="index"/>
-    <file name="nomq_index.css" crc="4059802404" ref="index"/>
+    <file name="index.css" crc="416130787" ref="index"/>
+    <file name="nomq_index.css" crc="3934732087" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -21,28 +21,7 @@
     <file name="html5shiv.js" crc="4241844378" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="chrleisure 3-u447-fr.jpg" crc="3898351720" ref="index"/>
-    <file name="chrleisure 2-u724-fr.jpg" crc="4276240308" ref="index"/>
-    <file name="chrleisure-u730-fr.jpg" crc="4114548930" ref="index"/>
-    <file name="chrleisure 3.jpg" crc="4276551500" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="chrleisure 2.jpg" crc="3866436071" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="chrleisure.jpg" crc="424364732" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
     <file name="blank.gif" crc="4208392903" ref="index"/>
-    <file name="chrleisure 3-u437-fr.jpg" crc="417427674" ref="index"/>
-    <file name="chrleisure 2-u727-fr.jpg" crc="4116542672" ref="index"/>
-    <file name="chrleisure-u733-fr.jpg" crc="4226079558" ref="index"/>
     <file name="таблица размеров.png" crc="362809619" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -61,6 +40,158 @@
     <file name="button_poster_u2246.png" crc="4144442460" ref="index"/>
     <file name="messenger.svg" crc="3836062767" ref="index"/>
     <file name="messenger_poster_u2225.png" crc="175740056" ref="index"/>
+    <file name="38657752-1-u447-fr.jpg" crc="532629607" ref="index"/>
+    <file name="38657752-2-u724-fr.jpg" crc="4286390513" ref="index"/>
+    <file name="38657752-3-u730-fr.jpg" crc="3809223163" ref="index"/>
+    <file name="38657752-4-u3073-fr.jpg" crc="331574945" ref="index"/>
+    <file name="38657752-5-u3100-fr.jpg" crc="4238828907" ref="index"/>
+    <file name="38657752-6-u3152-fr.jpg" crc="170366542" ref="index"/>
+    <file name="38657752-7-u3173-fr.jpg" crc="3843149804" ref="index"/>
+    <file name="38657752-8-u3191-fr.jpg" crc="388464690" ref="index"/>
+    <file name="38657752-9-u3209-fr.jpg" crc="15223742" ref="index"/>
+    <file name="38657752-1.jpg" crc="366735834" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="38657752-2.jpg" crc="4016817556" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="38657752-3.jpg" crc="4062229592" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="38657752-4.jpg" crc="38763005" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="38657752-5.jpg" crc="4260170245" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="38657752-6.jpg" crc="4064054388" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="38657752-7.jpg" crc="162491165" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="38657752-8.jpg" crc="4130139865" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="38657752-9.jpg" crc="43548928" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="38657752-1-u108-fr.jpg" crc="342274814" ref="index"/>
+    <file name="38657753-1.jpg" crc="4240635269" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="38657752-1-u108-fr2.jpg" crc="3952730888" ref="index"/>
+    <file name="38657752-1-u108-fr3.jpg" crc="3797563199" ref="index"/>
+    <file name="38657753-1-u575-fr.jpg" crc="236664336" ref="index"/>
+    <file name="38657752-1-u437-fr.jpg" crc="3927816969" ref="index"/>
+    <file name="38657752-2-u727-fr.jpg" crc="3833269060" ref="index"/>
+    <file name="38657752-3-u733-fr.jpg" crc="371304884" ref="index"/>
+    <file name="38657752-4-u3090-fr.jpg" crc="198841474" ref="index"/>
+    <file name="38657752-5-u3110-fr.jpg" crc="3985164684" ref="index"/>
+    <file name="38657752-6-u3164-fr.jpg" crc="146636646" ref="index"/>
+    <file name="38657752-7-u3182-fr.jpg" crc="4082347347" ref="index"/>
+    <file name="38657752-8-u3200-fr.jpg" crc="86392071" ref="index"/>
+    <file name="38657752-9-u3218-fr.jpg" crc="130563232" ref="index"/>
+    <file name="38657752-1-u108-fr4.jpg" crc="446955347" ref="index"/>
+    <file name="38657753-1-u575-fr2.jpg" crc="286041247" ref="index"/>
+    <file name="38657752-1-u447-fr2.jpg" crc="4116057329" ref="index"/>
+    <file name="38657752-2-u724-fr2.jpg" crc="17288751" ref="index"/>
+    <file name="38657752-3-u730-fr2.jpg" crc="210810536" ref="index"/>
+    <file name="38657752-4-u3073-fr2.jpg" crc="502302744" ref="index"/>
+    <file name="38657752-5-u3100-fr2.jpg" crc="276501542" ref="index"/>
+    <file name="38657752-6-u3152-fr2.jpg" crc="309398671" ref="index"/>
+    <file name="38657752-7-u3173-fr2.jpg" crc="3810378538" ref="index"/>
+    <file name="38657752-8-u3191-fr2.jpg" crc="273118670" ref="index"/>
+    <file name="38657752-9-u3209-fr2.jpg" crc="4109247168" ref="index"/>
+    <file name="38657753-1-u3908-fr.jpg" crc="4231903966" ref="index"/>
+    <file name="38657753-2-u3907-fr.jpg" crc="3858408706" ref="index"/>
+    <file name="38657753-3-u3909-fr.jpg" crc="174068759" ref="index"/>
+    <file name="38657753-4-u3906-fr.jpg" crc="418600908" ref="index"/>
+    <file name="38657753-5-u3910-fr.jpg" crc="214480413" ref="index"/>
+    <file name="38657753-6-u3905-fr.jpg" crc="4090812409" ref="index"/>
+    <file name="38657753-7-u3911-fr.jpg" crc="56141255" ref="index"/>
+    <file name="38657753-8-u3913-fr.jpg" crc="155866502" ref="index"/>
+    <file name="38657753-9-u3912-fr.jpg" crc="3930652931" ref="index"/>
+    <file name="38657753-2.jpg" crc="3826229447" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="38657753-3.jpg" crc="97415640" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="38657753-4.jpg" crc="4056433091" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="38657753-5.jpg" crc="263820688" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="38657753-6.jpg" crc="470520585" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="38657753-7.jpg" crc="46325826" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="38657753-8.jpg" crc="4143117767" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="38657753-9.jpg" crc="4104294381" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="38657753-1-u3908-fr2.jpg" crc="437869110" ref="index"/>
+    <file name="38657753-2-u3907-fr2.jpg" crc="451120302" ref="index"/>
+    <file name="38657753-3-u3909-fr2.jpg" crc="244947626" ref="index"/>
+    <file name="38657753-4-u3906-fr2.jpg" crc="4282832865" ref="index"/>
+    <file name="38657753-5-u3910-fr2.jpg" crc="3922122771" ref="index"/>
+    <file name="38657753-6-u3905-fr2.jpg" crc="64591017" ref="index"/>
+    <file name="38657753-7-u3911-fr2.jpg" crc="3977377335" ref="index"/>
+    <file name="38657753-8-u3913-fr2.jpg" crc="327469845" ref="index"/>
+    <file name="38657753-9-u3912-fr2.jpg" crc="20220131" ref="index"/>
+    <file name="38657753-1-u575-fr3.jpg" crc="3931814365" ref="index"/>
+    <file name="38657753-1-u3898-fr.jpg" crc="4018215733" ref="index"/>
+    <file name="38657753-2-u3901-fr.jpg" crc="3765941515" ref="index"/>
+    <file name="38657753-3-u3897-fr.jpg" crc="368151440" ref="index"/>
+    <file name="38657753-4-u3895-fr.jpg" crc="4034221251" ref="index"/>
+    <file name="38657753-5-u3896-fr.jpg" crc="168275232" ref="index"/>
+    <file name="38657753-6-u3894-fr.jpg" crc="64129868" ref="index"/>
+    <file name="38657753-7-u3893-fr.jpg" crc="4124156391" ref="index"/>
+    <file name="38657753-8-u3899-fr.jpg" crc="4118911272" ref="index"/>
+    <file name="38657753-9-u3900-fr.jpg" crc="221901704" ref="index"/>
+    <file name="38657753-1-u575-fr4.jpg" crc="3989904070" ref="index"/>
   </folder>
-  <file name="index.html" crc="3987512204" seo="true" mt="1637152094966" redirect="true"/>
+  <file name="index.html" crc="3773107524" seo="true" mt="1637157072334" redirect="true"/>
 </manifest>
