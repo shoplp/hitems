@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="hitems.ru" resolutions="1x" timestamp="1637141318351">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="hitems.ru" resolutions="1x" timestamp="1637141525097">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="395768759" ref="index"/>
-    <file name="nomq_index.css" crc="3981066602" ref="index"/>
+    <file name="index.css" crc="4263094587" ref="index"/>
+    <file name="nomq_index.css" crc="476056652" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -42,5 +42,5 @@
     <file name="chrleisure 2-u727-fr.jpg" crc="4116542672" ref="index"/>
     <file name="chrleisure-u733-fr.jpg" crc="4226079558" ref="index"/>
   </folder>
-  <file name="index.html" crc="512901367" seo="true" mt="1637141240110" redirect="true"/>
+  <file name="index.html" crc="3809052687" seo="true" mt="1637141516335" redirect="true"/>
 </manifest>
