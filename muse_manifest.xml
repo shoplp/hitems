@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="hitems.ru" resolutions="1x" timestamp="1637157181829">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="hitems.ru" resolutions="1x" timestamp="1637157285178">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="416130787" ref="index"/>
-    <file name="nomq_index.css" crc="3934732087" ref="index"/>
+    <file name="index.css" crc="106658561" ref="index"/>
+    <file name="nomq_index.css" crc="3938275565" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -193,5 +193,5 @@
     <file name="38657753-9-u3900-fr.jpg" crc="221901704" ref="index"/>
     <file name="38657753-1-u575-fr4.jpg" crc="3989904070" ref="index"/>
   </folder>
-  <file name="index.html" crc="3773107524" seo="true" mt="1637157072334" redirect="true"/>
+  <file name="index.html" crc="3764615046" seo="true" mt="1637157264904" redirect="true"/>
 </manifest>
