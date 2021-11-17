@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="hitems.ru" resolutions="1x" timestamp="1637149511761">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="hitems.ru" resolutions="1x" timestamp="1637151643012">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4280368933" ref="index"/>
-    <file name="nomq_index.css" crc="285169429" ref="index"/>
+    <file name="index.css" crc="4020746608" ref="index"/>
+    <file name="nomq_index.css" crc="4262161368" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -49,6 +49,18 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="таблица размеров-u1669-fr.png" crc="4237775361" ref="index"/>
+    <file name="viber.svg" crc="3786590996" ref="index"/>
+    <file name="viber_poster_u2163.png" crc="66527141" ref="index"/>
+    <file name="whatsapp.svg" crc="4224798224" ref="index"/>
+    <file name="whatsapp_poster_u2141.png" crc="530006960" ref="index"/>
+    <file name="telegram.svg" crc="3800922453" ref="index"/>
+    <file name="telegram_poster_u2185.png" crc="321460793" ref="index"/>
+    <file name="vk.svg" crc="222496760" ref="index"/>
+    <file name="vk_poster_u2205.png" crc="3969130661" ref="index"/>
+    <file name="button.svg" crc="390865593" ref="index"/>
+    <file name="button_poster_u2246.png" crc="4144442460" ref="index"/>
+    <file name="messenger.svg" crc="3836062767" ref="index"/>
+    <file name="messenger_poster_u2225.png" crc="175740056" ref="index"/>
   </folder>
-  <file name="index.html" crc="4222143962" seo="true" mt="1637149510362" redirect="true"/>
+  <file name="index.html" crc="440880465" seo="true" mt="1637151618739" redirect="true"/>
 </manifest>
