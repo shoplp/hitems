@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="hitems.ru" resolutions="1x" timestamp="1637151643012">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="hitems.ru" resolutions="1x" timestamp="1637152106977">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4020746608" ref="index"/>
-    <file name="nomq_index.css" crc="4262161368" ref="index"/>
+    <file name="index.css" crc="277455787" ref="index"/>
+    <file name="nomq_index.css" crc="4059802404" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -62,5 +62,5 @@
     <file name="messenger.svg" crc="3836062767" ref="index"/>
     <file name="messenger_poster_u2225.png" crc="175740056" ref="index"/>
   </folder>
-  <file name="index.html" crc="440880465" seo="true" mt="1637151618739" redirect="true"/>
+  <file name="index.html" crc="3987512204" seo="true" mt="1637152094966" redirect="true"/>
 </manifest>
