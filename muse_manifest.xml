@@ -1,36 +1,46 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="hitems.ru" resolutions="1x" timestamp="1637082443072">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="hitems.ru" resolutions="1x" timestamp="1637140187935">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4269887149" ref="index"/>
-    <file name="thanks.css" crc="4009671366" ref="thanks"/>
+    <file name="index.css" crc="317306274" ref="index"/>
+    <file name="nomq_index.css" crc="3849807274" ref="index"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:thanks"/>
-    <file name="museutils.js" crc="340535759" ref="index:thanks"/>
-    <file name="whatinput.js" crc="86476730" ref="index:thanks"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:thanks"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
     <file name="webpro.js" crc="4059564322" ref="index"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
     <file name="touchswipe.js" crc="4075097462" ref="index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:thanks"/>
-    <file name="require.js" crc="7928878" ref="index:thanks"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
   </folder>
   <folder name="images">
     <file name="chrleisure 3-u447-fr.jpg" crc="3898351720" ref="index"/>
     <file name="chrleisure 2-u724-fr.jpg" crc="4276240308" ref="index"/>
+    <file name="chrleisure-u730-fr.jpg" crc="4114548930" ref="index"/>
     <file name="chrleisure 3.jpg" crc="4276551500" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
     <file name="chrleisure 2.jpg" crc="3866436071" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
     <file name="chrleisure.jpg" crc="424364732" ref="index">
       <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
     </file>
-    <file name="chrleisure-u730-fr.jpg" crc="4114548930" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
   </folder>
-  <file name="index.html" crc="189276517" seo="true" mt="1637082442680" redirect="true"/>
-  <file name="thanks.html" crc="277153423" seo="true" mt="1637079626398" redirect="false"/>
+  <file name="index.html" crc="3986040708" seo="true" mt="1637139928993" redirect="true"/>
 </manifest>
