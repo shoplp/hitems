@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="hitems.ru" resolutions="1x" timestamp="1637232921804">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="hitems.ru" resolutions="1x" timestamp="1637233035430">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="207219135" ref="index"/>
@@ -209,9 +209,9 @@
     <file name="dostavka-u7102-fr2.png" crc="4011181720" ref="thanks:dostavka"/>
     <file name="таблица размеров-u1669-fr2.png" crc="4249830914" ref="index"/>
     <file name="таблица размеров-u1669-fr3.png" crc="49150774" ref="index"/>
-    <file name="temp-favicon.ico" crc="279924176" ref="index"/>
+    <file name="temp-favicon.ico" crc="529522078" ref="index"/>
   </folder>
-  <file name="index.html" crc="4079841266" seo="true" mt="1637232721437" redirect="true"/>
-  <file name="thanks.html" crc="89887835" seo="true" mt="1637232721437" redirect="true"/>
-  <file name="dostavka.html" crc="86006692" seo="true" mt="1637232721437" redirect="true"/>
+  <file name="index.html" crc="3760556509" seo="true" mt="1637233019111" redirect="true"/>
+  <file name="thanks.html" crc="3976113409" seo="true" mt="1637233019111" redirect="true"/>
+  <file name="dostavka.html" crc="4281453461" seo="true" mt="1637233019111" redirect="true"/>
 </manifest>
