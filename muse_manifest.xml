@@ -1,47 +1,38 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="hitems.ru" resolutions="1x" timestamp="1637229503655">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="hitems.ru" resolutions="1x" timestamp="1637232026543">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3931510131" ref="index"/>
-    <file name="nomq_index.css" crc="4197256108" ref="index"/>
-    <file name="thanks.css" crc="415714331" ref="thanks"/>
-    <file name="nomq_thanks.css" crc="4019408409" ref="thanks"/>
-    <file name="master_temp.css" crc="165641734" ref="index:thanks"/>
-    <file name="nomq_preview_master_temp.css" crc="3824530138" ref="index:thanks"/>
+    <file name="index.css" crc="207219135" ref="index"/>
+    <file name="nomq_index.css" crc="4275939744" ref="index"/>
+    <file name="thanks.css" crc="3943398105" ref="thanks"/>
+    <file name="nomq_thanks.css" crc="3903321099" ref="thanks"/>
+    <file name="master_temp.css" crc="3951990790" ref="index:thanks:dostavka"/>
+    <file name="nomq_preview_master_temp.css" crc="3830433310" ref="index:thanks:dostavka"/>
+    <file name="dostavka.css" crc="206100415" ref="dostavka"/>
+    <file name="nomq_dostavka.css" crc="168214507" ref="dostavka"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:thanks"/>
-    <file name="museutils.js" crc="340535759" ref="index:thanks"/>
-    <file name="whatinput.js" crc="86476730" ref="index:thanks"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:thanks"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:thanks:dostavka"/>
+    <file name="museutils.js" crc="340535759" ref="index:thanks:dostavka"/>
+    <file name="whatinput.js" crc="86476730" ref="index:thanks:dostavka"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:thanks:dostavka"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:dostavka:thanks"/>
     <file name="webpro.js" crc="4059564322" ref="index"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
     <file name="touchswipe.js" crc="4075097462" ref="index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:thanks"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="index:thanks"/>
-    <file name="require.js" crc="7928878" ref="index:thanks"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:thanks:dostavka"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:thanks:dostavka"/>
+    <file name="require.js" crc="7928878" ref="index:thanks:dostavka"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index:thanks"/>
-    <file name="таблица размеров.png" crc="362809619" ref="index">
+    <file name="blank.gif" crc="4208392903" ref="index:thanks:dostavka"/>
+    <file name="таблица размеров.png" crc="178203623" ref="index">
       <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
+      <caption webpage="dostavka" alt=""/>
+      <caption webpage="dostavka" alt=""/>
+      <caption webpage="dostavka" alt=""/>
     </file>
-    <file name="таблица размеров-u1669-fr.png" crc="4237775361" ref="index"/>
-    <file name="viber.svg" crc="3786590996" ref="index"/>
-    <file name="viber_poster_u2163.png" crc="66527141" ref="index"/>
-    <file name="whatsapp.svg" crc="4224798224" ref="index"/>
-    <file name="whatsapp_poster_u2141.png" crc="530006960" ref="index"/>
-    <file name="telegram.svg" crc="3800922453" ref="index"/>
-    <file name="telegram_poster_u2185.png" crc="321460793" ref="index"/>
-    <file name="vk.svg" crc="222496760" ref="index"/>
-    <file name="vk_poster_u2205.png" crc="3969130661" ref="index"/>
-    <file name="button.svg" crc="390865593" ref="index"/>
-    <file name="button_poster_u2246.png" crc="4144442460" ref="index"/>
-    <file name="messenger.svg" crc="3836062767" ref="index"/>
-    <file name="messenger_poster_u2225.png" crc="175740056" ref="index"/>
+    <file name="таблица размеров-u1669-fr.png" crc="3943260953" ref="index"/>
     <file name="38657752-1-u447-fr.jpg" crc="532629607" ref="index"/>
     <file name="38657752-2-u724-fr.jpg" crc="4286390513" ref="index"/>
     <file name="38657752-3-u730-fr.jpg" crc="3809223163" ref="index"/>
@@ -194,7 +185,32 @@
     <file name="38657753-7-u3893-fr2.jpg" crc="4124156391" ref="index"/>
     <file name="38657753-8-u3899-fr2.jpg" crc="4118911272" ref="index"/>
     <file name="38657753-9-u3900-fr2.jpg" crc="221901704" ref="index"/>
+    <file name="ic2.png" crc="94185236" ref="thanks:dostavka">
+      <caption webpage="dostavka" alt=""/>
+      <caption webpage="dostavka" alt=""/>
+      <caption webpage="dostavka" alt=""/>
+      <caption webpage="dostavka" alt=""/>
+      <caption webpage="thanks" alt=""/>
+      <caption webpage="thanks" alt=""/>
+      <caption webpage="thanks" alt=""/>
+      <caption webpage="thanks" alt=""/>
+    </file>
+    <file name="dostavka-u7102-fr.png" crc="350917390" ref="thanks:dostavka"/>
+    <file name="ic1.png" crc="325651480" ref="thanks:dostavka">
+      <caption webpage="dostavka" alt=""/>
+      <caption webpage="dostavka" alt=""/>
+      <caption webpage="dostavka" alt=""/>
+      <caption webpage="dostavka" alt=""/>
+      <caption webpage="thanks" alt=""/>
+      <caption webpage="thanks" alt=""/>
+      <caption webpage="thanks" alt=""/>
+      <caption webpage="thanks" alt=""/>
+    </file>
+    <file name="dostavka-u7102-fr2.png" crc="4011181720" ref="thanks:dostavka"/>
+    <file name="таблица размеров-u1669-fr2.png" crc="4249830914" ref="index"/>
+    <file name="таблица размеров-u1669-fr3.png" crc="49150774" ref="index"/>
   </folder>
-  <file name="index.html" crc="453790250" seo="true" mt="1637229491920" redirect="true"/>
-  <file name="thanks.html" crc="4081437866" seo="true" mt="1637229262375" redirect="true"/>
+  <file name="index.html" crc="4020586182" seo="true" mt="1637232022393" redirect="true"/>
+  <file name="thanks.html" crc="113192194" seo="true" mt="1637231726701" redirect="true"/>
+  <file name="dostavka.html" crc="4163839962" seo="true" mt="1637231726701" redirect="true"/>
 </manifest>
