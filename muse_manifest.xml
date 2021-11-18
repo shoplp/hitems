@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="hitems.ru" resolutions="1x" timestamp="1637226680742">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="hitems.ru" resolutions="1x" timestamp="1637227141626">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
     <file name="index.css" crc="3842882663" ref="index"/>
@@ -193,6 +193,6 @@
     <file name="38657753-8-u3899-fr2.jpg" crc="4118911272" ref="index"/>
     <file name="38657753-9-u3900-fr2.jpg" crc="221901704" ref="index"/>
   </folder>
-  <file name="index.html" crc="4107928720" seo="true" mt="1637226669258" redirect="true"/>
-  <file name="thanks.html" crc="255555469" seo="true" mt="1637226659374" redirect="false"/>
+  <file name="index.html" crc="84163978" seo="true" mt="1637227130847" redirect="true"/>
+  <file name="thanks.html" crc="488724459" seo="true" mt="1637227130847" redirect="false"/>
 </manifest>
