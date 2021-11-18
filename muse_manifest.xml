@@ -1,27 +1,27 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="hitems.ru" resolutions="1x" timestamp="1637182242711">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="hitems.ru" resolutions="1x" timestamp="1637226680742">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4157802005" ref="index"/>
-    <file name="nomq_index.css" crc="4196683357" ref="index"/>
+    <file name="index.css" crc="3842882663" ref="index"/>
+    <file name="nomq_index.css" crc="207842072" ref="index"/>
+    <file name="thanks.css" crc="3893552077" ref="thanks"/>
+    <file name="nomq_thanks.css" crc="4249304856" ref="thanks"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="340535759" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:thanks"/>
+    <file name="museutils.js" crc="340535759" ref="index:thanks"/>
+    <file name="whatinput.js" crc="86476730" ref="index:thanks"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:thanks"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index"/>
     <file name="webpro.js" crc="4059564322" ref="index"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
     <file name="touchswipe.js" crc="4075097462" ref="index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
-    <file name="require.js" crc="7928878" ref="index"/>
-    <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:thanks"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index:thanks"/>
+    <file name="require.js" crc="7928878" ref="index:thanks"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:thanks"/>
     <file name="таблица размеров.png" crc="362809619" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -193,5 +193,6 @@
     <file name="38657753-8-u3899-fr2.jpg" crc="4118911272" ref="index"/>
     <file name="38657753-9-u3900-fr2.jpg" crc="221901704" ref="index"/>
   </folder>
-  <file name="index.html" crc="181786831" seo="true" mt="1637182204137" redirect="true"/>
+  <file name="index.html" crc="4107928720" seo="true" mt="1637226669258" redirect="true"/>
+  <file name="thanks.html" crc="255555469" seo="true" mt="1637226659374" redirect="false"/>
 </manifest>
