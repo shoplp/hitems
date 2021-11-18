@@ -1,10 +1,12 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="hitems.ru" resolutions="1x" timestamp="1637227141626">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="hitems.ru" resolutions="1x" timestamp="1637229503655">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="3842882663" ref="index"/>
-    <file name="nomq_index.css" crc="207842072" ref="index"/>
-    <file name="thanks.css" crc="3893552077" ref="thanks"/>
-    <file name="nomq_thanks.css" crc="4249304856" ref="thanks"/>
+    <file name="index.css" crc="3931510131" ref="index"/>
+    <file name="nomq_index.css" crc="4197256108" ref="index"/>
+    <file name="thanks.css" crc="415714331" ref="thanks"/>
+    <file name="nomq_thanks.css" crc="4019408409" ref="thanks"/>
+    <file name="master_temp.css" crc="165641734" ref="index:thanks"/>
+    <file name="nomq_preview_master_temp.css" crc="3824530138" ref="index:thanks"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:thanks"/>
@@ -193,6 +195,6 @@
     <file name="38657753-8-u3899-fr2.jpg" crc="4118911272" ref="index"/>
     <file name="38657753-9-u3900-fr2.jpg" crc="221901704" ref="index"/>
   </folder>
-  <file name="index.html" crc="84163978" seo="true" mt="1637227130847" redirect="true"/>
-  <file name="thanks.html" crc="488724459" seo="true" mt="1637227130847" redirect="false"/>
+  <file name="index.html" crc="453790250" seo="true" mt="1637229491920" redirect="true"/>
+  <file name="thanks.html" crc="4081437866" seo="true" mt="1637229262375" redirect="true"/>
 </manifest>
