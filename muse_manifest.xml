@@ -1,11 +1,11 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="hitems.ru" resolutions="1x" timestamp="1637237845924">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="false" exportTarget="other" domain="hitems.ru" resolutions="1x" timestamp="1637265827912">
   <folder name="css">
     <file name="site_global.css" crc="444006867"/>
-    <file name="index.css" crc="4283762334" ref="index"/>
+    <file name="index.css" crc="149672647" ref="index"/>
     <file name="nomq_index.css" crc="3878459439" ref="index"/>
     <file name="thanks.css" crc="4197775396" ref="thanks"/>
     <file name="nomq_thanks.css" crc="364678166" ref="thanks"/>
-    <file name="master_temp.css" crc="192678665" ref="index:thanks:dostavka"/>
+    <file name="master_temp.css" crc="3784690413" ref="index:thanks:dostavka"/>
     <file name="nomq_preview_master_temp.css" crc="3830433310" ref="index:thanks:dostavka"/>
     <file name="dostavka.css" crc="4152013017" ref="dostavka"/>
     <file name="nomq_dostavka.css" crc="4152820030" ref="dostavka"/>
@@ -211,7 +211,7 @@
     <file name="таблица размеров-u1669-fr3.png" crc="49150774" ref="index"/>
     <file name="temp-favicon.ico" crc="529522078" ref="index"/>
   </folder>
-  <file name="index.html" crc="3785438823" seo="true" mt="1637237834334" redirect="true"/>
+  <file name="index.html" crc="98000524" seo="true" mt="1637265819254" redirect="true"/>
   <file name="thanks.html" crc="4284356471" seo="true" mt="1637237834334" redirect="true"/>
   <file name="dostavka.html" crc="3773473582" seo="true" mt="1637237834334" redirect="true"/>
 </manifest>
